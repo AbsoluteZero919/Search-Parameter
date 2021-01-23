@@ -1,4 +1,4 @@
-# Search_Parameter
+# Search-Parameter
 
 This is a simple search parameter to search for data in the database. Built using Java and JSP, MySQL, and on Eclipse IDE, the program takes in the search request and the category from the front-end and gives the search results in a downloadable Excel spreadsheet.<br>
 It is built in a fairly simple method so that in case there is a need for change of the database, we can just change the database names and change the connectors. In this program, I have used a database of songs and music to search through.<br>
