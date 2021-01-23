@@ -25,5 +25,5 @@ There is also a test file to serve as an example for how the programs run.
 
 ## What could be better ?
 
-Though it's a simple project, it lacks in quite a lot of areas. One of them is that the Selenium automated testing just tests if the program runs properly. It could be imporved to check data integrity and such.<br>
+Though it's a simple project, it lacks in quite a lot of areas. One of them is that the Selenium automated testing just tests if the program runs properly. It could be improved to check data integrity and such.<br>
 If you have any questions, hit me up !
